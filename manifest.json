@@ -1,0 +1,18 @@
+{
+  "name": "Formatter of the english lyrics on gakufu.gakki.me",
+  "description": "楽器.meの英語歌詞の崩れを修正するchrome拡張",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": [
+        "https://gakufu.gakki.me//*"
+      ],
+      "js": [
+        "format.js"
+      ],
+      "run_at": "document_end",
+      "all_frames": true
+    }
+  ]
+}
