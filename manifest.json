@@ -1,5 +1,5 @@
 {
-  "name": "Formatter of the english lyrics on gakufu.gakki.me",
+  "name": "Formatter of the english lyrics on 楽器.me",
   "description": "楽器.meの英語歌詞の崩れを修正するchrome拡張",
   "version": "0.0.3",
   "manifest_version": 3,
