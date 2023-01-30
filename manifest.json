@@ -6,7 +6,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://gakufu.gakki.me//*"
+        "https://gakufu.gakki.me/*"
       ],
       "js": [
         "format.js"
