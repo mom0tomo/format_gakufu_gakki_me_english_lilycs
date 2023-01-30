@@ -8,7 +8,7 @@ function main(e) {
     if (words_of_english_lyrics != null) {
       for (i = 0; i < words_of_english_lyrics.length; i++) {
         words_of_english_lyrics[i].style.width = "0.9em";
-      }
-    }
-  }
-}
+      };
+    };
+  };
+};
