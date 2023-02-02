@@ -1,7 +1,8 @@
 # format_gakufu_gakki_me_english_lilycs
 
-[楽器.me](https://gakufu.gakki.me/)の英語歌詞の崩れを修正するchrome拡張です。
+[楽器.me](https://gakufu.gakki.me/m/data/OCD0011.html)の英語歌詞の崩れを修正するchrome拡張です。
 
+→ [Chrome Web Store URL](https://chrome.google.com/webstore/detail/formatter-of-the-english/hdcnmphailbopaegahomamecpoflfmdg)
 
 before|after
 -|-
